@@ -1,0 +1,26 @@
+body {
+    text-align:left;
+    width: 600px;
+    margin:auto;
+    text-align: center;
+}
+
+button {
+    background-color:black;
+    color: white;
+    padding: 5px 20px;
+    border-radius:10px;
+    margin-left: 25px;
+    margin-top: 25px;
+    font-size: 20px;
+}
+
+input {
+    font-size: 18px;
+    padding: 5px;
+    border-radius: 5px;
+}
+
+h2 {
+    font-size: 40px;
+}
